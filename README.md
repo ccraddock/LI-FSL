@@ -2,7 +2,7 @@
 #!/bin/sh
 
 #NPNL Lab
-#KLI kaoriito(at)usc.edu 20151030
+#KLI kaoriito(at)usc.edu 20151101
 #Part 3
 #after calculating LI values in MATLAB, this will group together all LI values from subjects. 
 
